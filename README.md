@@ -1,19 +1,58 @@
-# ORBITAL: THE LAST SIGNAL
+# ORBITAL: THE LAST SIGNAL 🚀
 
-A cinematic browser-based sci-fi exploration game aboard the AURORA-7 orbital research station.
+A cinematic first-person sci-fi exploration game set aboard the **AURORA-7 orbital research station**.
 
-## Play
+## 🎮 Play
 
-Open the GitHub Pages site after Pages is enabled.
+GitHub Pages: `https://aisheechowdhury19801977-create.github.io/ORBITAL-THE-LAST-SIGNAL/`
 
-## Controls
+## 🛰️ Premise
 
-- WASD — move
-- Mouse — look
-- E — interact
-- F — flashlight
-- I — inventory
+AURORA-7 has gone silent. The crew is missing, station systems are failing, and an unknown transmission is repeating from somewhere inside the station.
 
-## Story
+Explore the station, restore critical systems, recover evidence, and decide whether to transmit the signal or isolate it.
 
-AURORA-7 has lost contact with Earth. Emergency power is failing and the crew status is unknown. Restore the station, bring communications online, and investigate a mysterious internal signal.
+## 🎮 Controls
+
+- **W A S D** — Move
+- **Mouse** — Look
+- **E** — Interact
+- **F** — Flashlight
+- **I** — Inventory
+- **Esc** — Release mouse
+
+## 🧩 Current Modules
+
+- Command Deck
+- Crew Habitat
+- Research Laboratory
+- Engineering / Power Module
+- Airlock
+- Pressure bulkheads
+- Interactive terminals and equipment
+- Station lighting and emergency systems
+- Mission progression and multiple outcomes
+
+## 🛠️ Technology
+
+- HTML5
+- JavaScript
+- Three.js
+- WebGL
+- GitHub Pages
+
+## 📁 Project Structure
+
+```text
+ORBITAL-THE-LAST-SIGNAL/
+├── index.html
+└── README.md
+```
+
+## 🚧 Development
+
+This repository is the playable web-game prototype. Future development can add 3D assets, sound, voice logs, NPCs, advanced AI behavior, save games, achievements, and additional station modules.
+
+## 👤 Project
+
+Built as an independent student game project.
